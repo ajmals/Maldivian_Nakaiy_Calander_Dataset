@@ -1,8 +1,6 @@
 # Maldivian Nakaiy Calander Dataset
 Dataset on the ancient Maldivian Nakaiy calendar system, extracted from Hassan Ahmed Maniku's 1989 book.
 
-# Maldivian Nakaiy Calendar Dataset
-
 ## Description
 This dataset contains information on the ancient Maldivian Nakaiy system, a traditional calendar based on lunar mansions (asterisms) used for determining seasons, auspicious times, fishing, and agriculture. It divides the year into two monsoons: Hulhangu (South-West, 18 Nakaiy) and Iruvai (North-East, 9 Nakaiy). Each Nakaiy includes details like start/end dates, names/meanings in multiple languages (Divehi, Arabic, Sinhala), presiding divinities/regents, wind directions, speeds, rainfall, and sunshine hours.
 
