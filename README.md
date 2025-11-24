@@ -46,8 +46,8 @@ Sample rows:
   df = pd.read_csv('maldivian_nakaiy_calendar.tsv')
   print(df.head())
 
-- **Load in R (readr)
-```R
-library(readr)
-df <- read_csv("maldivian_nakaiy_calendar.tsv")
-head(df)
+- **Load in R (readr)**
+  ```R
+  library(readr)
+  df <- read_csv("maldivian_nakaiy_calendar.tsv")
+  head(df)
