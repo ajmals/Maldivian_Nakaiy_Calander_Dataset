@@ -17,6 +17,7 @@ The main file is `maldivian_nakaiy_calendar.tsv` with the following columns:
 
 - **Nakaiy**: Name of the lunar mansion (e.g., Assidha).
 - **Season**: Hulhangu or Iruvai.
+- **Season sequence no**
 - **Start Date**: Approximate Gregorian start date (e.g., 8 April).
 - **End Date**: Approximate Gregorian end date (e.g., 21 April).
 - **Hindu Lunar Mansion (Name & Meaning)**: e.g., Asvini ("the two horsemen").
@@ -27,6 +28,11 @@ The main file is `maldivian_nakaiy_calendar.tsv` with the following columns:
 - **Wind Speed (km/hr)**: e.g., 12.96.
 - **Rainfall (m)**: e.g., 46.6.
 - **Sunshine (hrs)**: e.g., 1116.
+- **Figure/Symbol**
+- **Asterism/Constellation**
+- **Notes (Activities, Sayings, Status)**
+
+
 
 Sample rows:
 
